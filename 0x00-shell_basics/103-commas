@@ -1,2 +1,2 @@
-#!/bin/bas
-ls -apm | sort -d
+#!/bin/bash
+ls -xamp
